@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @robert-mp
-- 👀 I’m interested in Computer Science, Data Structures and Artificial Intellgence
-- 🌱 I’m currently learning Machine Learning and Web Programming
 - 📫 How to reach me robertmp999@gmai.com
 
 <!---
